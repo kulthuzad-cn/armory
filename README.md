@@ -1,2 +1,2 @@
 # armory
-javascript pure mathed library
+javascript pure method library
